@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.tooltip {
+  background-color: rgb(93, 68, 236);
+  display: inline-block;
+  position: absolute;
+}
+.legend {
+  font-size: large;
+  text-decoration: underline;
+  color: blue;
+}
